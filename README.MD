@@ -16,7 +16,7 @@ Start with the **Measurement Data Example** as it demonstrates the typical workf
 ## 🛠️ Requirements
 
 ### Hardware
-- Xsens MTi3 or MTi7 module
+- Xsens MTi-3 or MTi-7 module
 - Xsens development kit shield board (MTi 1-s DEV board Rev 2.1)
 - STM32 NUCLEO-F401RE development board
 
@@ -29,7 +29,7 @@ Start with the **Measurement Data Example** as it demonstrates the typical workf
 
 ## 🔧 Hardware Setup
 
-1. Insert the MTi1 module into the dev board socket
+1. Insert the MTi-3/MTi-7 module into the dev board socket
 2. Plug the dev board onto the Arduino connector of the NUCLEO board
 3. Connect the NUCLEO board to your PC via USB cable
 4. Configure terminal emulator:
