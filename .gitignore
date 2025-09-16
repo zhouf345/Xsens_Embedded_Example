@@ -1,0 +1,30 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.map
+*.list
+*.elf
+*.bin
+*.hex
+
+# STM32CubeIDE project files (keep some, ignore others)
+.metadata/
+.settings/
+*.launch
+*.tmp
+*.bak
+
+# Generated files
+*_generated.*
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*~
+*.swp
+*.swo
